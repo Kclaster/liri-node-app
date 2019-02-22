@@ -24,7 +24,7 @@ functionCall = action => {
       if (second) {
         omdb(second);
       } else {
-        omdb('Mr. Nobobdy');
+        omdb('Mr. Nobody');
       }
       break;
     case 'do-what-it-says':
