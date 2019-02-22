@@ -40,7 +40,7 @@ The movie-this command retrieves to following data points:
    
    ### If no movie is given, the command will retrieve data for "Mr. Nobodoy."
  
-![movie-this](/pics/movie-this.png)
+![movie-this](/pics/movie-this.PNG)
 
 
 
