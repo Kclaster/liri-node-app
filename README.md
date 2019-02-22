@@ -1,6 +1,6 @@
 # liri-node-app
 
-#Liri Nod App
+
 
 Liri is an app designed to retrieve data from various api's given a command. 
 The commands are as follows:
